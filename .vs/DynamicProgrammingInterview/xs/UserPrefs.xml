@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{39A81C37-9DE4-4D4D-B9D8-37CA784FFC36}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DynamicProgrammingInterview/Program.cs">
+    <Files>
+      <File FileName="DynamicProgrammingInterview/Program.cs" Line="31" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DynamicProgrammingInterview" expanded="True">
+            <Node name="DynamicProgrammingInterview" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DynamicProgrammingInterview PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgrammingInterview", "DynamicProgrammingInterview\DynamicProgrammingInterview.csproj", "{39A81C37-9DE4-4D4D-B9D8-37CA784FFC36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A81C37-9DE4-4D4D-B9D8-37CA784FFC36}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{39A81C37-9DE4-4D4D-B9D8-37CA784FFC36}.Debug|anycpu.Build.0 = Debug|anycpu
+		{39A81C37-9DE4-4D4D-B9D8-37CA784FFC36}.Release|anycpu.ActiveCfg = Release|anycpu
+		{39A81C37-9DE4-4D4D-B9D8-37CA784FFC36}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
